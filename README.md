@@ -10,4 +10,6 @@ Methods how I implement test process are described in 'methods.md'.
 
 The homework which I wrote code for is Question 2.92, Page 177, CSAPP Third Edition.
 
-Results after testing are listed in 'results.txt'.
+Unfornately, the size of results is too big to store in my rented Linux instance. I have to give it up.
+
+But until '40400000', everything was OK.
