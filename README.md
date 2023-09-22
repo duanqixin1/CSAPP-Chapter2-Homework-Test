@@ -2,9 +2,9 @@
 
 Codes and methods used to identify codes' correctness in homework.
 
-Testing codes are involved in 'float_absval' in '0921.c'.
+Testing codes are involved in 'float_absval()' in '0921.c'.
 
-Tested codes are stored in both 'float_absval_official' and 'main' in '0921.c'.
+Tested codes are stored in both 'float_absval_official()' and 'test()' in '0921.c'.
 
 Methods how I implement test process are described in 'methods.md'.
 
